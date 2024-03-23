@@ -21,14 +21,14 @@ Face aux défis liés aux ressources et aux packages limités pour les services 
 3. Lancez l'application en exécutant le fichier principal.
 4. Explorez les fonctionnalités de détection d'hôtels.
 ## Visual Overview: Images Depicting the Hotel Finder Project
-![WhatsApp Image 2024-03-23 at 9 59 35 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/e007ac84-c5be-4fdf-a09c-d2819166dd13)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM (5)](https://github.com/ouassima-dihaj/profx/assets/113460174/2e105658-e32c-4915-b75e-3b79a09bdb6f)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM (4)](https://github.com/ouassima-dihaj/profx/assets/113460174/f06522d3-20b9-4b02-81e4-0cd8db64fa89)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM (3)](https://github.com/ouassima-dihaj/profx/assets/113460174/3f31c345-cc52-4a30-a326-a91dc025a4e0)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM (2)](https://github.com/ouassima-dihaj/profx/assets/113460174/1f34b759-0264-4f73-8b16-dd21cac527e7)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM (1)](https://github.com/ouassima-dihaj/profx/assets/113460174/74346ed5-ce41-4858-bd14-943db7b7c05e)
-![WhatsApp Image 2024-03-23 at 9 59 33 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/eb211354-8838-4f78-ac59-9eedb0f90222)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/8b7b7d99-6966-4e85-8cc2-f94b4c435863)
+![WhatsApp Image 2024-03-23 at 9 59 35 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/ee075192-952f-41fe-b211-f30b068f1a8e)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM (5)](https://github.com/ouassima-dihaj/profx/assets/113460174/4aef0d1c-bebf-49ef-9e09-5d480cc2e7cd)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM (4)](https://github.com/ouassima-dihaj/profx/assets/113460174/c4b901b6-ec9e-444f-bd18-0a2481c35159)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM (3)](https://github.com/ouassima-dihaj/profx/assets/113460174/44faf835-a40c-4d70-bd6c-e6dea7ee24be)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM (2)](https://github.com/ouassima-dihaj/profx/assets/113460174/40cd76ba-1afb-4fbf-bb6a-295970995330)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM (1)](https://github.com/ouassima-dihaj/profx/assets/113460174/096814be-68bf-46a9-b225-0d71b21f8cf0)
+![WhatsApp Image 2024-03-23 at 9 59 33 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/7bdec5b5-9d13-4d2d-9a4d-f4f57ee5ab15)
+![WhatsApp Image 2024-03-23 at 9 59 34 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/003b7271-52ec-45cc-aaff-5c90989f565f)
 
 ## Licence
 
