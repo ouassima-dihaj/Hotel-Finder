@@ -1,4 +1,4 @@
-# Hotelfinder
+# Hotel-Finder
 
 Hotelfinder est une application de bureau dynamique conçue pour la détection d'hôtels. Elle intègre de manière transparente les technologies Java, JavaFX et JavaScript, notamment Leaflet.js, OpenStreetMap et l'API Overpass. Ce mélange soigneusement sélectionné de technologies vise à fournir une expérience efficace et conviviale spécifiquement adaptée à la découverte d'hôtels.
 
