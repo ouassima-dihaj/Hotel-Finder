@@ -20,7 +20,8 @@ Face aux défis liés aux ressources et aux packages limités pour les services 
 2. Assurez-vous d'avoir installé Java et JavaFX sur votre système.
 3. Lancez l'application en exécutant le fichier principal.
 4. Explorez les fonctionnalités de détection d'hôtels.
-## Visual Overview: Images Depicting the Hotel Finder Project
+## Aperçu visuel: 
+![WhatsApp Image 2024-03-23 at 9 59 34 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/003b7271-52ec-45cc-aaff-5c90989f565f)
 ![WhatsApp Image 2024-03-23 at 9 59 35 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/ee075192-952f-41fe-b211-f30b068f1a8e)
 ![WhatsApp Image 2024-03-23 at 9 59 34 AM (5)](https://github.com/ouassima-dihaj/profx/assets/113460174/4aef0d1c-bebf-49ef-9e09-5d480cc2e7cd)
 ![WhatsApp Image 2024-03-23 at 9 59 34 AM (4)](https://github.com/ouassima-dihaj/profx/assets/113460174/c4b901b6-ec9e-444f-bd18-0a2481c35159)
@@ -28,7 +29,6 @@ Face aux défis liés aux ressources et aux packages limités pour les services 
 ![WhatsApp Image 2024-03-23 at 9 59 34 AM (2)](https://github.com/ouassima-dihaj/profx/assets/113460174/40cd76ba-1afb-4fbf-bb6a-295970995330)
 ![WhatsApp Image 2024-03-23 at 9 59 34 AM (1)](https://github.com/ouassima-dihaj/profx/assets/113460174/096814be-68bf-46a9-b225-0d71b21f8cf0)
 ![WhatsApp Image 2024-03-23 at 9 59 33 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/7bdec5b5-9d13-4d2d-9a4d-f4f57ee5ab15)
-![WhatsApp Image 2024-03-23 at 9 59 34 AM](https://github.com/ouassima-dihaj/profx/assets/113460174/003b7271-52ec-45cc-aaff-5c90989f565f)
 
 ## Licence
 
